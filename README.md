@@ -1,6 +1,6 @@
 **Problem Statement**
 
-The aim of this project is to analyze data from various housing projects to gain insights into project distribution, unit types, income levels, and completion trends. By understanding these metrics, stakeholders can better address housing needs, allocate resources, and evaluate the effectiveness of existing programs. Key questions include the total number of projects, the distribution of units by income type, project timelines, and how different program groups compare in terms of project count and total units.
+The aim of this project is to analyze data from various housing projects in NYC to gain insights into project distribution, unit types, income levels, and completion trends. By understanding these metrics, stakeholders can better address housing needs, allocate resources, and evaluate the effectiveness of existing programs. Key questions include the total number of projects, the distribution of units by income type, project timelines, and how different program groups compare in terms of project count and total units.
 
 **Methodology**
 
