@@ -1,0 +1,2 @@
+# Housing-Project-Analysis-Understanding-Trends-in-Affordability-and-Project-Outcomes
+This report examines housing projects from the Affordable Housing Production dataset, highlighting project distribution, income unit types, and completion timelines. Key findings include the total number of projects, trends in senior housing, and insights into low-income units, aimed at guiding policymakers in effective resource allocation.
